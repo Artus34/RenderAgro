@@ -4,3 +4,4 @@ scikit-learn
 xgboost
 fastapi
 uvicorn
+fastapi-cors  
